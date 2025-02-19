@@ -8,7 +8,7 @@ export const CTASection = () => {
     <section className="section-padding bg-gradient-to-b from-secondary to-white">
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-6 heading-gradient">
-          Ready to Transform Your School?
+          Ready to Transform Your Business
         </h2>
         <p className="text-lg text-secondary-foreground mb-12 max-w-2xl mx-auto">
         Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit        </p>
