@@ -1,0 +1,16 @@
+.vid_bg{
+    background: url("../../media/bg.jpg");
+  
+}
+
+.greet{
+    color: #1890ff;
+            color: white;
+            font-weight: lighter;
+
+}
+
+.greet-span{
+    font-size: larger;
+        font-weight: 800;
+}
